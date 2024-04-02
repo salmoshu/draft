@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-unused-result   CMakeFiles/yaml-cpp-parse.dir/parse.cpp.o  -o ../../../../bin/parse ../../../../lib/libyaml-cpp.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-unused-result   CMakeFiles/nmea2table.dir/src/minmea/minmea.cpp.o CMakeFiles/nmea2table.dir/src/rtklib/rtkcmn.cpp.o CMakeFiles/nmea2table.dir/src/nmea2table.cpp.o  -o ../bin/nmea2table /usr/lib/x86_64-linux-gnu/librealsense2.so.2.54.2 ../lib/libyaml-cpp.a /usr/lib/x86_64-linux-gnu/librsutils.a 

@@ -1,0 +1,21 @@
+# Program configuration file
+
+# Windows下使用Program时，文件路径中不能有中文
+# When you run Program under Windows, there should be NO Chinese in the file path.
+
+# GNSS数据文件路径
+# gnssdata filepath
+# gnsspath: "./dataset/serial-nmea.txt"
+abspath: "/home/salmos/SLAM/rs2"
+gnsspath: "/dataset/serial-nmea.txt"
+
+# 输出文件夹路径
+# output folder path
+outputpath: "/dataset/serial-table.txt"
+
+# GNSS未知方差
+# GNSS position STD (north-east-down)
+gnssnoise:
+  nstd: 0         # m
+  estd: 0         # m
+  hstd: 0         # m

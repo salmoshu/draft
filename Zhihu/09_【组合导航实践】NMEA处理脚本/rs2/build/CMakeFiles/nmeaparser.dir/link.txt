@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-unused-result   CMakeFiles/nmeaparser.dir/src/minmea/minmea.cpp.o CMakeFiles/nmeaparser.dir/src/nmeaparser.cpp.o  -o ../bin/nmeaparser /usr/lib/x86_64-linux-gnu/librealsense2.so.2.54.2 /usr/lib/x86_64-linux-gnu/librsutils.a 

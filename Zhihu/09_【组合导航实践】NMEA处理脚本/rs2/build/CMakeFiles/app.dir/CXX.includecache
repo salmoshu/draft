@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/add.h
+
+/home/salmos/SLAM/rs2/src/add.cpp
+stdio.h
+-
+add.h
+/home/salmos/SLAM/rs2/src/add.h
+
+/home/salmos/SLAM/rs2/src/main.cpp
+add.h
+/home/salmos/SLAM/rs2/src/add.h
+iostream
+-
+

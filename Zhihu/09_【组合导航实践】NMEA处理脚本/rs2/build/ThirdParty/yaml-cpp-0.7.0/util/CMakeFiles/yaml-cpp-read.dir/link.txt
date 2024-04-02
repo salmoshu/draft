@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-unused-result   CMakeFiles/yaml-cpp-read.dir/read.cpp.o  -o ../../../../bin/read ../../../../lib/libyaml-cpp.a 
